@@ -1,0 +1,23 @@
+{
+  "name": "jquery-bootstrap-in-action",
+  "version": "0.0.0",
+  "authors": [
+    "duanxiaoxue <duanxiaoxue@live.com>"
+  ],
+  "description": "learn bower app",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "angular": "~1.3.15"
+  }
+}
